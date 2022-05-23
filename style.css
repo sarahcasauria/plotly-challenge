@@ -1,0 +1,25 @@
+body {
+    background-color: #afd5f5;
+}
+
+#header {
+    background-color:#dbb589;
+}
+
+#white-background {
+    background-color:white;
+}
+
+p {
+    font-size:16px!important;
+}
+
+.panel-heading {
+    background-color: #dbb589!important;
+    color:black!important;
+    border-color:#5c4327!important;
+}
+
+h3 {
+    font-size:20px!important;
+}
